@@ -17,12 +17,12 @@ jobs:
             target: ipq50xx
             subtarget: arm
             vermagic: "c91268e66e66b4987a4ca258e683db91"
-          - tag: "23.05.0"
+          - tag: "23.05.3"
             pkgarch: arm_cortex-a7_neon-vfpv4
             target: ipq50xx
             subtarget: arm
             vermagic: "c91268e66e66b4987a4ca258e683db91"
-          - tag: "23.05.2"
+          - tag: "23.05.3"
             pkgarch: arm_cortex-a7_neon-vfpv4
             target: ipq50xx
             subtarget: arm
